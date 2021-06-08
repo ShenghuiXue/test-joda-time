@@ -26,8 +26,7 @@ public class App
     	System.out.println("java version: " + System.getProperty("java.version"));
     }
     
-   /* OUTPUT:       
-    ****************************************************** 
+   /* OUTPUT:   ****************************************************** 
 		locale: en_GB
 		format: dd/MM/y
 		java version: 11
